@@ -7,4 +7,4 @@ This project is to analyze product sales across a time period in a dataset
 3. Pandas
 4. Numpy
 
-This project is for the Naan Mudhalvans scheme done in collaboration with IBM
+This project is for the Naan Mudhalvan scheme done in collaboration with IBM
